@@ -2,20 +2,17 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+HAAM is currently an experimental research project and does not yet have formal software releases or versioned security support.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+The latest version of the code in the `main` branch is the actively maintained version.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+If you discover a security issue related to this repository, please contact:
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+**Abbas Ali**  
+Email: [abs3ali@proton.me](mailto:abs3ali@proton.me)
+
+Please include a clear description of the issue and, where possible, steps to reproduce it.
+
+Security reports will be reviewed as soon as reasonably possible.
